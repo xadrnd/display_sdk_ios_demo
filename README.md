@@ -12,7 +12,3 @@ TODO
 pod install
 open CustomEventDemo.xcworkspace
 ```
-
-### Documentation and Support
-
-https://docs.groundtruth.com
