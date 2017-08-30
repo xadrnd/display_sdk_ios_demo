@@ -4,6 +4,6 @@ target 'CustomEventDemo' do
 	project 'CustomEventDemo.xcodeproj'
 
 	pod 'GroundTruthDisplaySDK', '~> 1.0'
-	pod 'GroundTruthCustomEventForGoogleMobileAd', '~> 1.0'
+	pod 'GroundTruthCustomEventForGoogleMobileAd', '~> 1.0.1'
 	pod 'GroundTruthCustomEventForMopub', '~> 1.0'
 end
