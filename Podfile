@@ -3,7 +3,7 @@ target 'CustomEventDemo' do
     inhibit_all_warnings!
 	project 'CustomEventDemo.xcodeproj'
 
-	pod 'GroundTruthDisplaySDK', '~> 1.0'
-	pod 'GroundTruthCustomEventForGoogleMobileAd', '~> 1.0.1'
-	pod 'GroundTruthCustomEventForMopub', '~> 1.0'
+	pod 'GroundTruthDisplaySDK'
+	pod 'GroundTruthCustomEventForGoogleMobileAd'
+	pod 'GroundTruthCustomEventForMopub'
 end
